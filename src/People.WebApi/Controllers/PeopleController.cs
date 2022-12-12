@@ -11,7 +11,6 @@ namespace UpDEV.StockManager.People.WebApi.Controllers
     {
         public PeopleController()
         {
-
         }
 
         [HttpPost("create")]

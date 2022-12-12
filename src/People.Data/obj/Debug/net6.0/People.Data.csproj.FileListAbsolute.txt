@@ -1,0 +1,12 @@
+C:\Workspace\POCs\StockManager\src\People.Data\bin\Debug\net6.0\People.Data.deps.json
+C:\Workspace\POCs\StockManager\src\People.Data\bin\Debug\net6.0\People.Data.dll
+C:\Workspace\POCs\StockManager\src\People.Data\bin\Debug\net6.0\People.Data.pdb
+C:\Workspace\POCs\StockManager\src\People.Data\obj\Debug\net6.0\People.Data.csproj.AssemblyReference.cache
+C:\Workspace\POCs\StockManager\src\People.Data\obj\Debug\net6.0\People.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\POCs\StockManager\src\People.Data\obj\Debug\net6.0\People.Data.AssemblyInfoInputs.cache
+C:\Workspace\POCs\StockManager\src\People.Data\obj\Debug\net6.0\People.Data.AssemblyInfo.cs
+C:\Workspace\POCs\StockManager\src\People.Data\obj\Debug\net6.0\People.Data.csproj.CoreCompileInputs.cache
+C:\Workspace\POCs\StockManager\src\People.Data\obj\Debug\net6.0\People.Data.dll
+C:\Workspace\POCs\StockManager\src\People.Data\obj\Debug\net6.0\refint\People.Data.dll
+C:\Workspace\POCs\StockManager\src\People.Data\obj\Debug\net6.0\People.Data.pdb
+C:\Workspace\POCs\StockManager\src\People.Data\obj\Debug\net6.0\ref\People.Data.dll

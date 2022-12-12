@@ -14,7 +14,9 @@ builder.Services.AddValidatorsFromAssemblyContaining<PersonValidator>();
 
 builder.Services.AddFluentValidationAutoValidation(config =>
 {
+#pragma warning disable CS0618 // O tipo ou membro é obsoleto
     config.ImplicitlyValidateRootCollectionElements = true;
+#pragma warning restore CS0618 // O tipo ou membro é obsoleto
 });
 
 var app = builder.Build();

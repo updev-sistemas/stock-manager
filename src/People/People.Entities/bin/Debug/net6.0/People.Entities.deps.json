@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "People.Entities/1.0.0": {
+        "dependencies": {
+          "StockManager": "1.0.0"
+        },
+        "runtime": {
+          "People.Entities.dll": {}
+        }
+      },
+      "StockManager/1.0.0": {
+        "runtime": {
+          "StockManager.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "People.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StockManager/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

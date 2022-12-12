@@ -1,0 +1,12 @@
+C:\Workspace\POCs\StockManager\src\StockManager\bin\Debug\net6.0\StockManager.deps.json
+C:\Workspace\POCs\StockManager\src\StockManager\bin\Debug\net6.0\StockManager.dll
+C:\Workspace\POCs\StockManager\src\StockManager\bin\Debug\net6.0\StockManager.pdb
+C:\Workspace\POCs\StockManager\src\StockManager\obj\Debug\net6.0\StockManager.csproj.AssemblyReference.cache
+C:\Workspace\POCs\StockManager\src\StockManager\obj\Debug\net6.0\StockManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\POCs\StockManager\src\StockManager\obj\Debug\net6.0\StockManager.AssemblyInfoInputs.cache
+C:\Workspace\POCs\StockManager\src\StockManager\obj\Debug\net6.0\StockManager.AssemblyInfo.cs
+C:\Workspace\POCs\StockManager\src\StockManager\obj\Debug\net6.0\StockManager.csproj.CoreCompileInputs.cache
+C:\Workspace\POCs\StockManager\src\StockManager\obj\Debug\net6.0\StockManager.dll
+C:\Workspace\POCs\StockManager\src\StockManager\obj\Debug\net6.0\refint\StockManager.dll
+C:\Workspace\POCs\StockManager\src\StockManager\obj\Debug\net6.0\StockManager.pdb
+C:\Workspace\POCs\StockManager\src\StockManager\obj\Debug\net6.0\ref\StockManager.dll

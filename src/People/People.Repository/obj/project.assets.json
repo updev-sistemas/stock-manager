@@ -13,6 +13,16 @@
         "build": {
           "buildTransitive/net6.0/_._": {}
         }
+      },
+      "StockManager/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/StockManager.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/StockManager.dll": {}
+        }
       }
     }
   },
@@ -45,11 +55,17 @@
         "microsoft.extensions.dependencyinjection.abstractions.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "StockManager/1.0.0": {
+      "type": "project",
+      "path": "../../StockManager/StockManager.csproj",
+      "msbuildProject": "../../StockManager/StockManager.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "Microsoft.Extensions.DependencyInjection.Abstractions >= 7.0.0"
+      "Microsoft.Extensions.DependencyInjection.Abstractions >= 7.0.0",
+      "StockManager >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -83,7 +99,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Workspace\\POCs\\StockManager\\src\\StockManager\\StockManager.csproj": {
+              "projectPath": "C:\\Workspace\\POCs\\StockManager\\src\\StockManager\\StockManager.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

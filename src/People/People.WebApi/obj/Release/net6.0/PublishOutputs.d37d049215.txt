@@ -1,0 +1,17 @@
+C:\Workspace\POCs\StockManager\src\People\People.WebApi\obj\Release\net6.0\PubTmp\Out\People.WebApi.exe
+C:\Workspace\POCs\StockManager\src\People\People.WebApi\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Workspace\POCs\StockManager\src\People\People.WebApi\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Workspace\POCs\StockManager\src\People\People.WebApi\obj\Release\net6.0\PubTmp\Out\People.WebApi.dll
+C:\Workspace\POCs\StockManager\src\People\People.WebApi\obj\Release\net6.0\PubTmp\Out\People.WebApi.deps.json
+C:\Workspace\POCs\StockManager\src\People\People.WebApi\obj\Release\net6.0\PubTmp\Out\People.WebApi.runtimeconfig.json
+C:\Workspace\POCs\StockManager\src\People\People.WebApi\obj\Release\net6.0\PubTmp\Out\People.WebApi.pdb
+C:\Workspace\POCs\StockManager\src\People\People.WebApi\obj\Release\net6.0\PubTmp\Out\FluentValidation.dll
+C:\Workspace\POCs\StockManager\src\People\People.WebApi\obj\Release\net6.0\PubTmp\Out\FluentValidation.AspNetCore.dll
+C:\Workspace\POCs\StockManager\src\People\People.WebApi\obj\Release\net6.0\PubTmp\Out\FluentValidation.DependencyInjectionExtensions.dll
+C:\Workspace\POCs\StockManager\src\People\People.WebApi\obj\Release\net6.0\PubTmp\Out\FluentValidator.dll
+C:\Workspace\POCs\StockManager\src\People\People.WebApi\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Workspace\POCs\StockManager\src\People\People.WebApi\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Workspace\POCs\StockManager\src\People\People.WebApi\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Workspace\POCs\StockManager\src\People\People.WebApi\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Workspace\POCs\StockManager\src\People\People.WebApi\obj\Release\net6.0\PubTmp\Out\People.BusinessRules.dll
+C:\Workspace\POCs\StockManager\src\People\People.WebApi\obj\Release\net6.0\PubTmp\Out\People.BusinessRules.pdb
